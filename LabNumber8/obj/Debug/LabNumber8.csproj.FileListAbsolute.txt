@@ -1,0 +1,7 @@
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber8\LabNumber8\bin\Debug\LabNumber8.exe.config
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber8\LabNumber8\bin\Debug\LabNumber8.exe
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber8\LabNumber8\bin\Debug\LabNumber8.pdb
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber8\LabNumber8\obj\Debug\LabNumber8.csprojResolveAssemblyReference.cache
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber8\LabNumber8\obj\Debug\LabNumber8.csproj.CoreCompileInputs.cache
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber8\LabNumber8\obj\Debug\LabNumber8.exe
+C:\Users\Marilyn\Documents\Bootcamp\LabNumber8\LabNumber8\obj\Debug\LabNumber8.pdb
